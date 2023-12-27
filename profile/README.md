@@ -4,6 +4,9 @@ Yet another (unofficial) Pixel Experience port for OnePlus 9.
 ### Download
 We host releases on GitHub. Grab them [here](https://github.com/PixelExperience-Lemonade/release).
 
+> [!NOTE]  
+> We only build PE Plus Edition. Feel free to build for yourself if you do not prefer.
+
 ### Goal
 - Focus on stability. Introduce *minimized* out-of-tree tweaks:
     - Add [KernelSU](https://github.com/tiann/KernelSU) for out-of-box root experience (Kernel only. You still need to manually install manager).
