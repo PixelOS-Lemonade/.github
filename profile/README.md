@@ -2,7 +2,7 @@
 Yet another (unofficial) Pixel Experience port for OnePlus 9.
 
 ### Download
-We host releases on GitHub. Grab them [here](https://github.com/PixelExperience-Lemonade/release).
+We host releases on GitHub. Grab them [here](https://github.com/PixelExperience-Lemonade/release/releases).
 
 > [!NOTE]  
 > We only build PE Plus Edition. Feel free to build for yourself if you do not prefer.
