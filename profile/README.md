@@ -5,7 +5,7 @@ Yet another (unofficial) Pixel Experience port for OnePlus 9.
 We host releases on GitHub. Grab them [here](https://github.com/PixelExperience-Lemonade/release/releases).
 
 > [!NOTE]  
-> We only build PE Plus Edition. Feel free to build for yourself if you do not prefer.
+> We only build PE Plus Edition (if appliable) as my build machine took at least ~20mins to build one release. Feel free to build for yourself if you do not prefer.
 
 ### Goal
 - Focus on stability. Introduce *minimized* out-of-tree tweaks:
