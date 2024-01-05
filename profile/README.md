@@ -28,3 +28,10 @@ In either LineageOS or PixelExperience GitHub repo. I only modify minimum repos 
 
 #### Will you also build lemonadep (OnePlus 9 Pro) in the future?
 No. Unless someone is owning the device and willing to test.
+
+#### System crashed! E Zygote : java.lang.IllegalArgumentException: Unexpected cancel with surface 12
+Do not use [Nevoluton with DEBUG enabled](https://nevo.app/setup). Please use the following command to reset config:
+```
+setprop persist.log.tag.NotificationService ""
+```
+Then reboot your phone.
