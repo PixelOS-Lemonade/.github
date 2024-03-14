@@ -10,7 +10,6 @@ We host releases on GitHub. Grab them [here](https://github.com/PixelExperience-
 ### Goal
 - Focus on stability. Introduce *minimized* out-of-tree tweaks:
     - Add [KernelSU](https://github.com/tiann/KernelSU) for out-of-box root experience (Kernel only. You still need to manually install manager).
-    - Add IFAA components for supporting biometic payment of Alipay.
     - Cherry-pick [this](https://github.com/LineageOS/android_hardware_interfaces/commit/d45590152e95fe42bd3444e108fd8cd46ce2eae7) commit to support LDAC adaptive streaming.
 - No insane patches or weird tweaks that actually introduce unwanted behaviours.
     - Expect stock behaviour of LineageOS
