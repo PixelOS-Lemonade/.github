@@ -8,8 +8,8 @@ We host releases on GitHub. Grab them [here](https://github.com/PixelExperience-
 > We only build PE Plus Edition (if appliable) as my build machine took at least ~20mins to build one release. Feel free to build for yourself if you do not prefer.
 
 ### Goal
-- Focus on stability. Introduce *minimized* out-of-tree tweaks:
-    - Add [KernelSU](https://github.com/tiann/KernelSU) for out-of-box root experience (Kernel only. You still need to manually install manager).
+- Focus on stability. No out-of-tree tweaks by default:
+    - Need [KernelSU](https://github.com/tiann/KernelSU)? Download prebuilt kernel from [here](https://github.com/PixelExperience-Lemonade/kernel_oneplus_sm8350_kernelsu/actions)!
 - No insane patches or weird tweaks that actually introduce unwanted behaviours.
     - Expect stock behaviour of LineageOS
 
