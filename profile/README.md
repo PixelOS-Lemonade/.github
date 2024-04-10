@@ -1,5 +1,8 @@
-## Pixel Experience for OnePlus 9 (lemonade)
+## [Archived] Pixel Experience for OnePlus 9 (lemonade)
 Yet another (unofficial) Pixel Experience port for OnePlus 9.
+
+### We are archived
+Sadly, Pixel Experience [end up its development in April 10th, 2024](https://blog.pixelexperience.org/2024/04/everything-has-to-come-to-an-end-sometime/), so we decide to archive this repo and no longer provide updates. It had been a good ride.
 
 ### Download
 We host releases on GitHub. Grab them [here](https://github.com/PixelExperience-Lemonade/release/releases).
