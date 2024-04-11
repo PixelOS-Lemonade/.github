@@ -4,8 +4,8 @@ Yet another (unofficial) Pixel OS port for OnePlus 9.
 > [!WARNING]  
 > We are migrating from Pixel Experience. Release will come shortly.
 
-> [!WARNING]  
-> If you are coming from my old Pixel Experience port, you **MUST** do a proper backup and clean flash this rom! Cross flashing is not possible.
+> [!CAUTION]  
+> If you are coming from my old Pixel Experience port, you **MUST** do a proper backup and clean flash this rom! Dirty flash is not possible and *will* result in bootloop.
 
 ### Download
 We host releases on GitHub. Grab them [here](https://github.com/PixelOS-Lemonade/release/releases).
