@@ -22,7 +22,7 @@ I would like to strike the balance between the *TRUE* stability and minimal feat
 
 ### Q&A
 #### Only devices repo? What's the rest?
-In either LineageOS or Pixel OS GitHub repo. I only modify minimum repos that are required for building PE. The rest of parts are reused from existing base.
+In either LineageOS or Pixel OS GitHub repo. I only modify minimum repos that are required for building Pixel OS. The rest of parts are reused from existing base.
 
 #### Will you also build lemonadep (OnePlus 9 Pro) in the future?
 No. Unless someone is owning the device and willing to test.
