@@ -2,7 +2,7 @@
 Yet another (unofficial) Pixel OS port for OnePlus 9.
 
 > [!WARNING]  
-> We are migrating from Pixel Experience, so there will be no release for now.
+> We are migrating from Pixel Experience. Release will come shortly.
 
 ### Download
 We host releases on GitHub. Grab them [here](https://github.com/PixelOS-Lemonade/release/releases).
