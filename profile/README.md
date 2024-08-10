@@ -6,7 +6,7 @@ We host releases on GitHub. Grab them [here](https://github.com/PixelOS-Lemonade
 
 ### Goal
 - Focus on stability. Introduce only minimized out-of-tree tweaks:
-    - We revert libart strip commit [here](https://github.com/PixelOS-Lemonade/platform_art/commit/858b1d6baf74a0eb5a2de36ce6b0a7ddba62ea8e) to provide backward compability for some apps. This should not break existing apps.
+    - We revert libart strip commit [here](https://github.com/PixelOS-Lemonade/art/commit/e17c78dd37ed2464a3178af21d71d99268a2ba1c) to provide backward compability for some apps. This should not break existing apps.
     - Need [KernelSU](https://github.com/tiann/KernelSU)? Download prebuilt kernel from [here](https://github.com/PixelOS-Lemonade/kernel_oneplus_sm8350_kernelsu/actions)!
 - No insane patches or weird tweaks that actually introduce unwanted behaviours.
     - Expect stock behaviour of LineageOS
