@@ -7,7 +7,8 @@ We host releases on GitHub. Grab them [here](https://github.com/PixelOS-Lemonade
 ### Goal
 - Focus on stability. Introduce only minimized out-of-tree tweaks:
     - We revert libart strip commit [here](https://github.com/PixelOS-Lemonade/art/commit/e17c78dd37ed2464a3178af21d71d99268a2ba1c) to provide backward compability for some apps. This should not break existing apps.
-    - `PropImitationHooks` is removed. You should use [Tricky Store](https://github.com/5ec1cff/TrickyStore) instead if you still want to pass `Play Integrity`.
+    - `PropImitationHooks` is removed as it will prevents you from passing `Strong Integrity`. You should use [Tricky Store](https://github.com/5ec1cff/TrickyStore) instead!
+    - `Stack protector` related kernel configs are enabled [here](https://github.com/PixelOS-Lemonade/kernel_oneplus_sm8350/commit/911ec4c03452ad48d87c15798103a4fe8ab9b4cf) as `matrix level 5` requires.
     - Need [KernelSU](https://github.com/tiann/KernelSU)? Download prebuilt kernel from [here](https://github.com/PixelOS-Lemonade/kernel_oneplus_sm8350_kernelsu/actions)!
 - No insane patches or weird tweaks that actually introduce unwanted behaviours.
     - Expect stock behaviour of LineageOS
