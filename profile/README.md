@@ -14,7 +14,7 @@ We host releases on GitHub. Grab them [here](https://github.com/PixelOS-Lemonade
 
 ### Why for reinventing wheels
 - Existing ROMs (for lemonade) either:
-    - Introduce load of features / tweaks in the cost of random reboot / native crash / different behaviour other than AOSP. 
+    - Introduce load of features / tweaks in the cost of random reboot / native crash / system freeze / different behaviour other than AOSP. 
     - Stable, but lack of useful features (KSU, etc.).
 
 I would like to strike the balance between the *TRUE* stability and minimal features that helps get most out of the day. That is why I created this organization and build Pixel OS for lemonade.
