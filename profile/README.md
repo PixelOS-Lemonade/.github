@@ -23,7 +23,7 @@ I would like to strike the balance between the *TRUE* stability and minimal feat
 
 ### Known issues
 - Playing online medias on gecko browsers (like `Firefox`) will render SystemUI crash with `FATAL Exception` on `secondary users`.
-    - Main user (user `0`) is not affected.
+    - **Main user (user `0`) is not affected**. Work profile is also not affcted. This will not affect you unless you are using `multiple user` feature.
     - Blink browsers (like `Chromium`) are not affected and can play media on `secondary users` normally.
   
 ### Q&A
