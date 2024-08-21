@@ -21,6 +21,11 @@ We host releases on OneDrive. Grab them [here](https://github.com/PixelOS-Lemona
 
 I would like to strike the balance between the *TRUE* stability and minimal features that helps get most out of the day. That is why I created this organization and build Pixel OS for lemonade.
 
+### Known issues
+- Playing online medias on gecko browsers (like `Firefox`) will render SystemUI crashes with `FATAL Exception` on `secondary users`.
+    - Main user (user `0`) is not affected.
+    - Blink browsers (like `Chromium`) are not affected and can play media on `secondary users` normally.
+  
 ### Q&A
 #### Only devices repo? What's the rest?
 In either LineageOS or Pixel OS GitHub repo. I only modify minimum repos that are required for building Pixel OS. The rest of parts are reused from existing base.
