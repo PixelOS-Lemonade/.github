@@ -12,7 +12,7 @@ We host releases on OneDrive. Grab them [here](https://github.com/PixelOS-Lemona
     - Need [KernelSU](https://github.com/tiann/KernelSU)? Download prebuilt kernel from [here](https://github.com/PixelOS-Lemonade/kernel_oneplus_sm8350_kernelsu/actions)!
 - No insane patches or weird tweaks that actually introduce unwanted behaviours.
     - Expect stock behaviour of LineageOS
-    - Firmware is included in ROM
+    - Firmware is included in the ROMs.
 
 ### Why for reinventing wheels
 - Existing ROMs (for lemonade) either:
