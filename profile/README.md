@@ -2,7 +2,7 @@
 Yet another (unofficial) Pixel OS port for OnePlus 9.
 
 ### Download
-We host releases on OneDrive. Grab them [here](https://github.com/PixelOS-Lemonade/release/releases).
+We host releases on OneDrive. Grab them [here](https://share.pokon548.ink/Android/PixelOS%20Lemonade).
 
 ### Goal
 - Focus on stability. Introduce only minimized out-of-tree tweaks:
