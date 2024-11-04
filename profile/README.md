@@ -24,6 +24,7 @@ I would like to strike the balance between the *TRUE* stability and minimal feat
 - Playing online medias on gecko browsers (like `Firefox`) may render SystemUI crash with `FATAL Exception`.
     - **Main user (user `0`) is not affected**. Work profile is also not affcted. This will not affect you unless you are using `multiple user` feature.
     - Blink browsers (like `Chromium`) are not affected and can play media on `secondary users` normally.
+- `TrickyStore` seems broken on `14.0-20241028-1021` version. Either adding [these props](https://github.com/PixelOS-AOSP/frameworks_base/commit/39a750781c00f9d475775e4b3a1e1178d3a793b6) or removing `PropImitationHooks` will NOT help you pass strong integrity (Actually, you will get basic one only)
   
 ### Q&A
 #### Only devices repo? What's the rest?
