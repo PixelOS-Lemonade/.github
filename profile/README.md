@@ -38,3 +38,8 @@ Do not use [Nevoluton with DEBUG enabled](https://nevo.app/setup). Please use th
 setprop persist.log.tag.NotificationService ""
 ```
 Then reboot your phone.
+
+### Donate
+If you believe this ROM is useful, then consider donating me to help me keep this port active. Any amount would be kindly appreciated :) 
+
+[![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/pokon548)
