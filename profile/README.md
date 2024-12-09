@@ -4,7 +4,7 @@ Yet another (unofficial) Pixel OS port for OnePlus 9.
 ### Download
 We host releases on OneDrive. Grab them [here](https://github.com/PixelOS-Lemonade/release/releases/).
 
-If you cannot boot after flashing this ROM, you may need to download and flash [firmware](https://github.com/Wishmasterflo/Firmware_flasher?tab=readme-ov-file). Be sure to flash OOS 13.1+ one!
+If you cannot boot after flashing this ROM, you may need to download and flash [firmware](https://github.com/Wishmasterflo/Firmware_flasher). Make sure to flash OOS 13.1+ one!
 
 ### Goal
 - Focus on stability. Introduce only minimized out-of-tree tweaks:
